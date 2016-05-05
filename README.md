@@ -29,7 +29,7 @@ Once you've installed MLton, building is just one simple command.
 
 You can get usage information by running the command with no arguments.
 
-```
+```console
 $ make mlton
 
 $ ./tsim
@@ -72,7 +72,7 @@ Answer: 2
 
 The build system isn't quite as polished, but it still works well enough.
 
-```
+```console
 $ make smlnj
 
 $ sml -m sources.cm app/call-main.sml
