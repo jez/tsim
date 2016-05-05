@@ -1,0 +1,7 @@
+Group is
+  lib/basis.cm
+
+  lib/turing/sources.cm
+  lib/tsimulator/sources.cm
+
+  app/main.sml

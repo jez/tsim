@@ -1,0 +1,13 @@
+local
+  ../basis.mlb
+
+  turing.sig
+  adder.sml
+  multiplier.sml
+  exponentiator.sml
+in
+  signature TURING
+  structure Adder
+  structure Multiplier
+  structure Exponentiator
+end

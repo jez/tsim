@@ -1,0 +1,10 @@
+local
+  lib/basis.mlb
+
+  lib/turing/sources.mlb
+  lib/tsimulator/sources.mlb
+
+  app/main.sml
+in
+  structure Main
+end

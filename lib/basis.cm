@@ -1,0 +1,18 @@
+Library
+  structure Bool
+  structure Char
+  structure CommandLine
+  structure General
+  structure Int
+  structure List
+  structure ListPair
+  structure Math
+  structure Option
+  structure Real
+  structure String
+  structure Vector
+  structure Prelude
+is
+  $/basis.cm
+  prelude/sources.cm
+

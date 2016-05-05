@@ -1,0 +1,13 @@
+Library
+  signature TURING
+  structure Adder
+  structure Multiplier
+  structure Exponentiator
+is
+  ../basis.cm
+
+  turing.sig
+  adder.sml
+  multiplier.sml
+  exponentiator.sml
+

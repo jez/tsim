@@ -1,0 +1,10 @@
+local
+  ../basis.mlb
+  ../turing/sources.mlb
+
+  tsimulator.sig
+  tsimulator.sml
+in
+  signature TSIMULATOR
+  functor TSimulatorFn
+end

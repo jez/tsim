@@ -1,0 +1,10 @@
+Library
+  signature TSIMULATOR
+  functor TSimulatorFn
+is
+  ../basis.cm
+
+  ../turing/sources.cm
+
+  tsimulator.sig
+  tsimulator.sml
