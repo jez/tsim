@@ -8,7 +8,7 @@ Turing machines to demonstrate how it works.
 We choose to represent a Turing machine using the `TURING` signature. This is the
 best place to start to gain an understanding of the complete system.
 
-For a quick summary, our TURING signature sets up the following conventions:
+For a quick summary, our `TURING` signature sets up the following conventions:
 
 - a tape alphabet that includes a blank symbol
 - a two-way infinite tape, represented as a two-way unbounded array
