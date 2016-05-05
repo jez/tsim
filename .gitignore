@@ -1,0 +1,8 @@
+.*.sw[nop]
+tags
+
+# SML/NJ build folder
+.cm
+
+# MLton compiled binary
+tsim
